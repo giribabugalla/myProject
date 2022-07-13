@@ -174,6 +174,8 @@ Bundle-DocURL:
                         </execution>
                     </executions>
                     <dependencies>
+
+
                         <dependency>
                             <groupId>org.apache.sling</groupId>
                             <artifactId>org.apache.sling.caconfig.bnd-plugin</artifactId>
